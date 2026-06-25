@@ -1,11 +1,11 @@
-%let pgm=altair-slc-finally-fixed-utf8-bom-error-with-the-ulta-edit-editor-and-slc-autoexec-file;
+%let pgm=altair-slc-finally-fixed-utf8-bom-error-with-the-ultra-edit-editor-and-slc-autoexec-file;
 
 %stop_submission;
 
 Altair slc finally fixed utf-8 bom error with the ulta-edit editor and slc autoexec file
 
 Too long to post here, see github
-https://github.com/rogerjdeangelis/altair-slc-finally-fixed-utf8-bom-error-with-the-ulta-edit-editor-and-slc-autoexec-file
+https://github.com/rogerjdeangelis/altair-slc-finally-fixed-utf8-bom-error-with-the-ulrta-edit-editor-and-slc-autoexec-file
 
 This fix uses notepad++. I suspect other editors may allow removal of the BOM character.
 
