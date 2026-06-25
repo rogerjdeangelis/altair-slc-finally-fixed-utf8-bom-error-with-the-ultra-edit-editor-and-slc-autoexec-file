@@ -1,4 +1,4 @@
-# altair-slc-finally-fixed-utf8-bom-error-with-the-ulta-edit-editor-and-slc-autoexec-file
+# altair-slc-finally-fixed-utf8-bom-error-with-the-ulra-edit-editor-and-slc-autoexec-file
 Altair slc finally fixed utf-8 bom error with the ulta-edit editor and slc autoexec file
     %let pgm=altair-slc-finally-fixed-utf8-bom-error-with-the-ulta-edit-editor-and-slc-autoexec-file;
 
